@@ -4,7 +4,7 @@
 ### Registration Number: S26M19/002. 
 ### Access Number: B38624
 
-This repository contains five mini-projects completed for the MSDS course.
+This repository contains five mini-projects completed for the OOP with Python Assignment 2 Advent 2026
 
 ## Projects
 
