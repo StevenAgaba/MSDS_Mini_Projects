@@ -1,0 +1,10 @@
+name: population_forecaster
+
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - pytest
+  - jupyter
